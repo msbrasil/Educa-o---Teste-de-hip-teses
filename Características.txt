@@ -1,0 +1,28 @@
+Características
+
+background socioeconomico familiar e turmas
+enem 2022
+Q001 educ pai
+Q002 educ mae
+Q006 renda familiar
+
+background socioeconomico escola 
+enem 2022
+INSE INSE_CLASSIFICACAO
+
+
+características das escolas
+
+censo escolar
+IN_LABORATORIO_INFORMATICA - lab informatica
+IN_BIBLIOTECA - biblioteca
+
+enem 2022
+TP_DEPENDENCIA_ADM_ESC dependencia adm
+TP_LOCALIZACAO_ESC localização (urbana/rural)
+
+características dos docentes
+
+
+
+

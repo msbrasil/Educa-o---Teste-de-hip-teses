@@ -1,0 +1,38 @@
+dependente = NU_MEDIA_TOT Microdados_ENEM_ESCOLA
+
+indepedentes:
+
+descartar dados do ideb
+
+possíveis dentro dos dados de enem_escola
+ - INSE
+ - PC_FORMACAO_DOCENTE
+ - PORTE_ESCOLA
+ 
+
+interessante para explicar fatores que determinam o desempenho do aluno enem
+http://portal.mec.gov.br/component/tags/tag/enem-por-escola  Nível social do aluno e formação do professor são determinantes	
+
+http://portal.mec.gov.br/todas-as-noticias/418-noticias/enem-946573306/21521-nivel-social-do-aluno-e-formacao-do-professor-sao-determinantes
+
+MICRODADOS DO ENEM DE 2022
+
+NU_INSCRICAO - chave id
+TP_ESCOLA - tipo de escola, pública ou privada
+IN_TREINEIRO - se é treineiro, filtrar para somente não
+CO_MUNICIPIO_ESC - código da escola
+SG_UF_ESC - unidade federativa da escola
+TP_DEPENDENCIA_ADM_ESC	- Dependência administrativa (Escola)
+NU_NOTA_CN - nota ciencias da natureza
+NU_NOTA_CH - nota de ciencias humanas
+NU_NOTA_LC - nota de linguagens e códigos
+NU_NOTA_MT - nota matemática
+NU_NOTA_REDACAO - nota redação
+Q006 - renda familiar
+Q024	Na sua residência tem computador?
+Q025	Na sua residência tem acesso à Internet?
+
+
+
+
+["NU_INSCRICAO", "TP_ESCOLA", "IN_TREINEIRO", "CO_MUNICIPIO_ESC", "SG_UF_ESC", "TP_DEPENDENCIA_ADM_ESC", "NU_NOTA_CN", "NU_NOTA_CH", "NU_NOTA_LC", "NU_NOTA_MT", "NU_NOTA_REDACAO", "Q006", "Q024", "Q025"]
